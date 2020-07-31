@@ -1,0 +1,2 @@
+# GANs
+GAN is a class of deep learning framework dedicated to creating new things. Unlike conventional deep learning techniques that are used to detect various things, GAN is used to produce new things. Think of GAN as a painter; it likes to paint. Identifying a particular item, say a hat is something any literate human can do. We can easily mimic this on a computer using a deep learning framework. But, GAN, on the other hand, is a step towards creativity, a level close to intelligence.
