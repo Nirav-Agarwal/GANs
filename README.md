@@ -13,8 +13,6 @@ Machine learning is an integral part of our life. It's everywhere from the thing
 
 GAN is a class of deep learning framework dedicated to creating new things. Unlike conventional deep learning techniques that are used to detect various things, GAN is used to produce new things. Think of GAN as a painter; it likes to paint. Identifying a particular item, say a hat is something any literate human can do. We can easily mimic this on a computer using a deep learning framework. But, GAN, on the other hand, is a step towards creativity, a level close to intelligence.
 
-![An computer-generated image from ThisPersonDoesNotExist.com](https://miro.medium.com/max/60/1*e5Vpshzttc0ZAu1vQN63UQ.png?q=20)
-
 ![An computer-generated image from ThisPersonDoesNotExist.com](https://miro.medium.com/max/360/1*e5Vpshzttc0ZAu1vQN63UQ.png)
 
 Credit: [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)
@@ -39,8 +37,6 @@ Consider the generator and discriminator to be a student and teaching assistant 
 
 Furthermore, once the students get the feedback of the marks, he learns about his mistakes and tries to write better, close to the correct answer. This cycle of double looping continues until the answers produced are really close to the right answers. This, in simple terms, is how GAN works.
 
-![Generative Adversarial Network framework by Thalles Silva](https://miro.medium.com/max/60/1*gB01Pva7MEu2O6x-nCoGKw.png?q=20)
-
 ![Generative Adversarial Network framework by Thalles Silva](https://miro.medium.com/max/928/1*gB01Pva7MEu2O6x-nCoGKw.png)
 
 Generative Adversarial Network framework by [Thalles Silva](https://www.freecodecamp.org/news/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394/)
@@ -60,8 +56,6 @@ TL; DR
 -   Discriminator gives probabilities of the images received.
 -   Discriminator learns from the ground-truth dataset and provides more accurate probabilities. Then, it returns it backwards.
 -   Generator learns from the returned probabilities and tries to create images with better probabilities.
-
-![Image for post](https://miro.medium.com/max/60/1*VnKBArl2vVAug9OPZB4lqA.png?q=20)
 
 ![Image for post](https://miro.medium.com/max/826/1*VnKBArl2vVAug9OPZB4lqA.png)
 
@@ -112,10 +106,6 @@ DCGAN on Google Colab
 Tip: You can code the complete DCGAN on Google Colab. In your Goggle Colab notebook, go to Runtime > Change Runtime Type and under hardware accelerator select *GPU*.
 
 Google Colab Notebook link --- <https://colab.research.google.com/drive/1iHnpkzUcnm_vm-A-Z_LWXS4c9lNva9Ez?usp=sharing>
-
-![The output images of our model after every 100 steps.](https://miro.medium.com/freeze/max/60/1*ap-KoT-mQOui_gylN20txg.gif?q=20)
-
-The output images of our model after every 100 steps.
 
 Useful Links
 ------------
